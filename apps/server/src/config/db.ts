@@ -48,4 +48,4 @@ export const closeDb = async () => {
     client = null;
     database = null;
   }
-};
+}; 
