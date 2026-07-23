@@ -128,4 +128,4 @@ So two tabs of the same room never collide on participant id, and a refresh keep
 VITE_API_BASE=http://localhost:4000
 ```
 
-Resolved by `lib/api.ts` and `lib/socket.ts` for REST + WS endpoints.
+Resolved by `lib/api.ts` and `lib/socket.ts` for REST + WS endpoints. 
